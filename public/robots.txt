@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /sign-in
+Disallow: /dashboard
+Disallow: /payment-success
